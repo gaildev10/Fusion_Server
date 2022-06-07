@@ -9,7 +9,10 @@ app.use(cors())
 const fusion = {
     "weather report": {
         "groupName": "Weather Report",
-        "yearsActive": "1970-1986",
+        "yearsActive": "Years Active: 1970-1986",
+        "image": "assets/weather_report.jpg",
+
+
         "musicians": {
             "joe zawinul": {
                 "musicianName": "Joe Zawinul",
@@ -32,16 +35,17 @@ const fusion = {
         "releases": {
             "weather report ": { 
             "title": "Weather Report ", 
-            "year released": "1971",
-            "record label": "Columbia",
+            "year released": "Year Released: 1971",
+            "record label": "Record Label: Columbia",
             },
         },
-        "image": "assets/weather_report.png",
     },
 
     "return to forever": {
         "groupName": "Return To Forever",
-        "yearsActive": '1972-1977',
+        "yearsActive": 'Years Active: 1972-1977',
+        "image": "assets/Return_to_Forever_1976.jpg",
+
         "musicians": {
             "chick corea": {
                 "musicianName": "Chick Corea",
@@ -68,11 +72,10 @@ const fusion = {
         "releases": {
             "light as a feather": { 
             "title": "Light as a Feather", 
-            "year released": "1973",
-            "record label": "Polydor Records",
+            "year released": "Year Released: 1973",
+            "record label": "Record Label: Polydor Records",
             },
         },
-        "image": "assets/Return_to_Forever_1976.jpg",
 
     }
 }
