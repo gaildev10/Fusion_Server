@@ -10,7 +10,7 @@ const fusion = {
     "weather report": {
         "groupName": "Weather Report",
         "yearsActive": "Years Active: 1970-1986",
-        "image": "assets/weather_report.jpg",
+        "image": "https://www.theaudiodb.com/images/media/artist/thumb/xxrqtt1416066660.jpg",
 
 
         // "musicians": {
@@ -44,7 +44,7 @@ const fusion = {
     "return to forever": {
         "groupName": "Return To Forever",
         "yearsActive": 'Years Active: 1972-1977',
-        "image": "assets/Return_to_Forever_1976.jpg",
+        "image": "https://www.theaudiodb.com/images/media/artist/thumb/qytqxp1387496563.jpg",
 
         // "musicians": {
         //     "chick corea": {
