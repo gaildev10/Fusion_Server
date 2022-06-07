@@ -13,32 +13,32 @@ const fusion = {
         "image": "assets/weather_report.jpg",
 
 
-        "musicians": {
-            "joe zawinul": {
-                "musicianName": "Joe Zawinul",
-                "musicianInstrument": 'keyboards',
-            },
+        // "musicians": {
+        //     "joe zawinul": {
+        //         "musicianName": "Joe Zawinul",
+        //         "musicianInstrument": 'keyboards',
+        //     },
             
-            "wayne shorter": {
-                "musicianName": "Wayne Shorter",
-                "musicianInstrument": 'saxophone'
-            },
-            "miroslav vitouš": {
-                "musicianName": "Miroslav Vitouš",
-                "musicianInstrument": 'bass'
-            },
-            "alphonse mouzon ": {
-                "musicianName": "Alphonse Mouzon ",
-                "musicianInstrument": 'drums'
-            },
-        },
-        "releases": {
-            "weather report ": { 
-            "title": "Weather Report ", 
-            "year released": "Year Released: 1971",
-            "record label": "Record Label: Columbia",
-            },
-        },
+        //     "wayne shorter": {
+        //         "musicianName": "Wayne Shorter",
+        //         "musicianInstrument": 'saxophone'
+        //     },
+        //     "miroslav vitouš": {
+        //         "musicianName": "Miroslav Vitouš",
+        //         "musicianInstrument": 'bass'
+        //     },
+        //     "alphonse mouzon ": {
+        //         "musicianName": "Alphonse Mouzon ",
+        //         "musicianInstrument": 'drums'
+        //     },
+        // },
+        // "releases": {
+        //     "weather report ": { 
+        //     "title": "Weather Report ", 
+        //     "year released": "Year Released: 1971",
+        //     "record label": "Record Label: Columbia",
+        //     },
+        // },
     },
 
     "return to forever": {
@@ -46,36 +46,36 @@ const fusion = {
         "yearsActive": 'Years Active: 1972-1977',
         "image": "assets/Return_to_Forever_1976.jpg",
 
-        "musicians": {
-            "chick corea": {
-                "musicianName": "Chick Corea",
-                "musicianInstrument": 'keyboards',
-            },
+        // "musicians": {
+        //     "chick corea": {
+        //         "musicianName": "Chick Corea",
+        //         "musicianInstrument": 'keyboards',
+        //     },
             
-            "stanley clarke": {
-                "musicianName": "Stanley Clarke",
-                "musicianInstrument": 'bass',
-            },
-            "flora purim": {
-                "musicianName": "Flora Purim",
-                "musicianInstrument": 'vocals',
-            },
-            "airto moreira": {
-                "musicianName": "Airto Moreira",
-                "musicianInstrument": 'percussion',
-            },
-            "joe farrell ": {
-                "musicianName": "Joe Farrell ",
-                "musicianInstrument": 'saxophone',
-            },
-        },
-        "releases": {
-            "light as a feather": { 
-            "title": "Light as a Feather", 
-            "year released": "Year Released: 1973",
-            "record label": "Record Label: Polydor Records",
-            },
-        },
+        //     "stanley clarke": {
+        //         "musicianName": "Stanley Clarke",
+        //         "musicianInstrument": 'bass',
+        //     },
+        //     "flora purim": {
+        //         "musicianName": "Flora Purim",
+        //         "musicianInstrument": 'vocals',
+        //     },
+        //     "airto moreira": {
+        //         "musicianName": "Airto Moreira",
+        //         "musicianInstrument": 'percussion',
+        //     },
+        //     "joe farrell ": {
+        //         "musicianName": "Joe Farrell ",
+        //         "musicianInstrument": 'saxophone',
+        //     },
+        // },
+        // "releases": {
+        //     "light as a feather": { 
+        //     "title": "Light as a Feather", 
+        //     "year released": "Year Released: 1973",
+        //     "record label": "Record Label: Polydor Records",
+        //     },
+        // },
 
     }
 }
